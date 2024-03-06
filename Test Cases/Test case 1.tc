@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>probando test case katalon</description>
+   <name>Test case 1</name>
+   <tag>QA</tag>
+   <comment></comment>
+   <testCaseGuid>42eeb93b-6eec-46c7-82c5-f16d552083b2</testCaseGuid>
+</TestCaseEntity>
